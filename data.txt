@@ -1,0 +1,6 @@
+Name: Steven
+Age: 34
+Favorite Color: Blue
+Favorite Food: TBD
+Relative path: data.txt
+Path: /Users/stevenscemama/Desktop/git-practice/data.txt
