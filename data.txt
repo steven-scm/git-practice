@@ -4,3 +4,5 @@ Favorite Color: Blue
 Favorite Food: TBD
 Relative path: data.txt
 Path: /Users/stevenscemama/Desktop/git-practice/data.txt
+
+je rajoute du texte sur ce fichier depuis github.com
